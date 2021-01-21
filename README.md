@@ -1,2 +1,4 @@
 # PopDiff_MonocyteIAV
-Associated with the following manuscript: Basal Expression of Interferon-Stimulated Genes Drives Population Differences in Monocyte Susceptibility to Influenza Infection
+
+We have moved this repository and updated it on the Laboratory gihub.
+Please go to https://github.com/h-e-g/PopDiff_MonocyteIAV.git
